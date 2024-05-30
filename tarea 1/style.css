@@ -1,0 +1,17 @@
+
+.msjtituloG{
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 120px;
+   color:white;
+   text-align: center;
+ 
+}
+.texto{
+   font-family: cursive;
+color: black;
+background-color:rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(14, 80, 141);
+}
+
